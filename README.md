@@ -81,8 +81,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harsh-Prajapati54/DSA/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/Harsh-Prajapati54/DSA/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harsh-Prajapati54/DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Harsh-Prajapati54/DSA/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
